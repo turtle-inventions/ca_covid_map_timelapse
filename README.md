@@ -7,6 +7,7 @@ Map tiles by [Stamen Design](http://stamen.com) under [CC BY 3.0](http://creativ
  
 ## Dependencies
 Poetry dependency manager: https://python-poetry.org
+Python 3.9 or higher: https://python.org
 
 ## To Run
 ```bash
